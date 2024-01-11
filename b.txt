@@ -1,2 +1,4 @@
 update
 commit
+
+오늘 새로 배운거
